@@ -1,6 +1,8 @@
 body {
+    text-align: center;
     background: blue;
 }
 h1 {
-    text-emphasis-color: yellow;
+    text-align: center;
+    background-color: yellow;
 }
